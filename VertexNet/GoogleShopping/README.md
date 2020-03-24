@@ -1,4 +1,4 @@
- # Google Shopping Feed para  Magento 2
+# Google Shopping Feed para  Magento 2
     
     __Instalação__
      
